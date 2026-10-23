@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ossafe_game_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ossafe_game_end",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

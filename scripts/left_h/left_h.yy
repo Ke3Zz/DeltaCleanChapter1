@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"left_h",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"left_h",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

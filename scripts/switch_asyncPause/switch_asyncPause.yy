@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"switch_asyncPause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"switch_asyncPause",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

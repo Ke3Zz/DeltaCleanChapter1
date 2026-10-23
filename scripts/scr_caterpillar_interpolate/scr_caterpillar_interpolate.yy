@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_caterpillar_interpolate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_caterpillar_interpolate",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

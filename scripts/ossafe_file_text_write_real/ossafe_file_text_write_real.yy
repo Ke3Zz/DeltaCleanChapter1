@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ossafe_file_text_write_real",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ossafe_file_text_write_real",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

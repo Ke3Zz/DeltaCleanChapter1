@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ossafe_ini_open",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ossafe_ini_open",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ossafe_shapes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ossafe_shapes",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

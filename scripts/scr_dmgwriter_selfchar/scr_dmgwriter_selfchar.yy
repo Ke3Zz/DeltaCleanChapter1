@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_dmgwriter_selfchar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_dmgwriter_selfchar",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

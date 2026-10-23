@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"bg_chess_statue_naked_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"bg_chess_statue_naked_tileset",
+  "out_columns":1,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"_decompiled_bg_chess_statue_naked_tileset",
+    "path":"sprites/_decompiled_bg_chess_statue_naked_tileset/_decompiled_bg_chess_statue_naked_tileset.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"default",
+    "path":"texturegroups/default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":-9.223372E+18,
+  "tileHeight":140,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":66,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":1,
+}

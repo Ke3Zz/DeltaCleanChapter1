@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tile_get_ids_at_depth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tile_get_ids_at_depth",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
