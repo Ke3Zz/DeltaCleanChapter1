@@ -1193,6 +1193,7 @@
     {"name":"button_xbox_x","order":1076,"path":"sprites/button_xbox_x/button_xbox_x.yy",},
     {"name":"button_xbox_y","order":760,"path":"sprites/button_xbox_y/button_xbox_y.yy",},
     {"name":"buttonsall","order":1046,"path":"sprites/buttonsall/buttonsall.yy",},
+    {"name":"IDK_LMAO","order":1152,"path":"sprites/IDK_LMAO/IDK_LMAO.yy",},
     {"name":"IMAGE_DEPTH","order":1026,"path":"sprites/IMAGE_DEPTH/IMAGE_DEPTH.yy",},
     {"name":"IMAGE_DOG","order":916,"path":"sprites/IMAGE_DOG/IMAGE_DOG.yy",},
     {"name":"IMAGE_GONERBODY","order":917,"path":"sprites/IMAGE_GONERBODY/IMAGE_GONERBODY.yy",},
