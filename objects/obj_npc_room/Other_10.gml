@@ -1301,7 +1301,7 @@ if (room == room_beach)
 }
 
 if (room == room_town_school)
-    global.msg[0] = "There are 509 coins left here/%";
+    global.msg[0] = "* There are 509 coins left here/%";
 
 remanimspeed = image_speed;
 myinteract = 3;
